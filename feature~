@@ -1,1 +1,5 @@
-print("commit 3")
+<<<<<<< HEAD
+print("conflict 2")
+=======
+print("Conflict 1")
+>>>>>>> conflict
